@@ -1536,5 +1536,10 @@
     {
       "name": "Shades of the Sky",
       "colors": ["#f6d282", "#bbf0f1"]
-    }
+    },
+    {
+      "name": "Shades of the Sky",
+      "colors": ["#C3DBB3", "#69934D"]
+    },
+
 ]
